@@ -6,3 +6,4 @@ tEsT
 test
 TEST
 tesT
+TESt
