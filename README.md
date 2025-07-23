@@ -4,3 +4,4 @@ TEST
 TeSt
 tEsT
 test
+TEST
